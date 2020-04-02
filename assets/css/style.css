@@ -126,3 +126,11 @@ main{
         font: 18px;
     }
 }
+@media screen and (max-width:500px){
+    .cta{
+        padding: 0 15%;
+    }
+    .content{
+        padding: 0 10%;
+    }
+}

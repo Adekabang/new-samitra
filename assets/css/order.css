@@ -73,6 +73,10 @@ textarea {
     right: 20%;
 }
 
+.flip{
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
 @media screen and (max-width: 900px) {
     .left {
         display: none;
