@@ -21,6 +21,8 @@ h1{
     font-size: 72px;
     float: left;
     width: 50%;
+    text-decoration: none;
+    color: black;
 }
 nav{
     float: right;
