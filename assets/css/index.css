@@ -21,7 +21,8 @@
     }
     .left{
         width: 100%;
-        display: block;
+        position:  fixed;
+        height: 80%;
     }
     
 }

@@ -20,8 +20,15 @@
         display: none;
     }
     .left{
-        width: 100%;
+        width: 80%;
+        position:  fixed;
+        height: 80%;
         display: block;
     }
-    
+    h1{
+        font-size: 20px;
+    }
+    p{
+        font-size: 12px;
+    }
 }
