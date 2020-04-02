@@ -1,0 +1,17 @@
+.bg-1{
+    position: absolute;
+    top: 20%;
+    left: 10%;
+}
+
+.bg-2{
+    position: absolute;
+    top: 0;
+    left: 25%;
+}
+
+.bg-3{
+    position: absolute;
+    right: 5%;
+    bottom: 0;
+}
