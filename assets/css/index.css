@@ -14,3 +14,14 @@
     left: 0;
     bottom: 0;
 }
+
+@media screen and (max-width: 900px) {
+    .right{
+        display: none;
+    }
+    .left{
+        width: 100%;
+        display: block;
+    }
+    
+}
